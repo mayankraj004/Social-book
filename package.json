@@ -1,0 +1,26 @@
+{
+  "name": "reactprojects",
+  "version": "1.0.0",
+  "description": "SocialApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankraj004/Social-book.git"
+  },
+  "author": "MayankRaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankraj004/Social-book/issues"
+  },
+  "homepage": "https://github.com/mayankraj004/Social-book#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^18.2.0"
+  }
+}
